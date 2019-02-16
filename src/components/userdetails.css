@@ -1,0 +1,36 @@
+.user-allDetails{
+    padding: 10px;
+    width: 80%;
+    min-height: 150px;
+    max-height: 350px;
+    margin: 0 auto;
+    overflow: auto;
+    margin-top: 10px;
+    box-shadow: 1px 1px 1px 2px #ccc
+}
+
+.user-main-container{
+    border: 1px solid black;
+    width: 100%;
+    margin: 5px;
+    display: inline-block;
+    background-color: #d6d3cf;
+
+}
+.user-button{
+    overflow: hidden;
+}
+.user-button button{
+    float: left;
+} 
+.user-button button:last-child{
+ float: right;
+}
+.user-content{
+    padding: 10px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 95%;
+
+}

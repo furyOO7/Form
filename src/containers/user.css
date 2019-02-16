@@ -1,0 +1,40 @@
+.main-container{
+    margin: 0;
+}
+.form-container{
+    border: 1px solid black;
+    background: #e6e2e2;
+    margin: 0 auto;
+    padding: 5px,;
+    text-align: center;
+    width: 50%;
+    margin-top: 20px
+    
+ }
+ .form-container input, .form-container button{
+     padding: 2px;
+     margin: 8px 0;
+ }
+ .input-class{
+     padding: 0 10px;
+
+ }
+ .main-container label {
+     margin-top: 10px;margin-bottom: 0;
+ }
+ .form-container input{
+     width: 100%;
+ }
+ .form-label{
+    display: inline-block;
+    width: 25%;
+    text-align: right;
+    padding-right: 5px;
+ }
+ .form-header{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    padding: 10px 0;
+    padding-bottom: 0;
+}
